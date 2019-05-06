@@ -126,6 +126,9 @@ header {
     border-bottom: 1px dashed black;
 }
 
+.about-button{
+    width: 25%;
+}
 
 .top-content .big-text-container {
     padding: 0 1%;
