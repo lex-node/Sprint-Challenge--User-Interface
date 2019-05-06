@@ -74,11 +74,16 @@ p {
 }
 
 
-.header-nav {
+.top-nav {
     display: flex;
     justify-content: space-around;
     align-items: center;
 
+}
+
+header {
+    display: flex;
+    justify-content: center;
 }
 
 .container {
