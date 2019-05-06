@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c207398f-7783-4869-be49-c982068f5890" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,20 +25,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="83" column="56" lean-forward="true" selection-start-line="83" selection-start-column="56" selection-end-line="83" selection-end-column="56" />
+            <state relative-caret-position="985">
+              <caret line="92" column="18" lean-forward="true" selection-start-line="92" selection-start-column="18" selection-end-line="92" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="88" column="26" lean-forward="true" selection-start-line="88" selection-start-column="26" selection-end-line="88" selection-end-column="26" />
+            <state relative-caret-position="335">
+              <caret line="114" column="25" lean-forward="true" selection-start-line="114" selection-start-column="25" selection-end-line="114" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -82,8 +82,8 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/css/index.css" />
         <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/css/index.css" />
       </list>
     </option>
   </component>
@@ -170,12 +170,12 @@
       <option name="presentableId" value="Default" />
       <updated>1557104643650</updated>
       <workItem from="1557104645122" duration="966000" />
-      <workItem from="1557105672557" duration="6133000" />
+      <workItem from="1557105672557" duration="6535000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7099000" />
+    <option name="totallyTimeSpent" value="7501000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -259,9 +259,6 @@
     <entry file="file://$PROJECT_DIR$/design-files/home.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/design-files/about.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -269,13 +266,6 @@
             <caret line="102" column="31" lean-forward="true" selection-start-line="102" selection-start-column="31" selection-end-line="102" selection-end-column="31" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="88" column="26" lean-forward="true" selection-start-line="88" selection-start-column="26" selection-end-line="88" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -288,8 +278,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="83" column="56" lean-forward="true" selection-start-line="83" selection-start-column="56" selection-end-line="83" selection-end-column="56" />
+        <state relative-caret-position="985">
+          <caret line="92" column="18" lean-forward="true" selection-start-line="92" selection-start-column="18" selection-end-line="92" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-files/about.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="114" column="25" lean-forward="true" selection-start-line="114" selection-start-column="25" selection-end-line="114" selection-end-column="25" />
         </state>
       </provider>
     </entry>
