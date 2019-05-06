@@ -84,6 +84,11 @@ p {
 
 }
 
+.top-nav-anchor{
+    color: black;
+    text-decoration: none;
+}
+
 header {
     width: 800px;
     display: flex;
